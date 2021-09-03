@@ -1,3 +1,3 @@
 # alanine_free_energy_sampling
 
-under construction
+under constructing
